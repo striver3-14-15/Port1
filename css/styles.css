@@ -1,0 +1,169 @@
+body {
+    text-align: center;
+    /* color: #66BFBF; */
+    /* font-family: 'Patrick Hand', cursive; */
+    margin: 0 auto 0 auto;
+    /* font-size: 5.625px; */
+    /* font-family: 'Sacramento', cursive; */
+    /* padding: 0px; */
+}
+
+
+/* ------------------hr------------------------- */
+
+.hrr {
+    /* border-width: 0.001ch; */
+    border: none;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    color: lightgray;
+    margin: 0 auto 0 auto;
+    /* border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px; 
+    /* border-bottom: 1px dotted; */
+    /* height: 0.2px; */
+    width: 10%;
+    /* grid-template: ; */
+}
+
+.h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #11999E;
+    margin: 50px auto 0 auto;
+    text-shadow: 4px;
+    font-size: 2em;
+}
+
+.h1:hover {
+    display: inline-block;
+    color: fuchsia;
+    font-size: xx-large;
+    /* text-shadow: 10px 5px 5px black; */
+    background-color: #0e0b16;
+    text-shadow: 0.3em;
+}
+
+.div1 {
+    /* background-color: #CFF5E7; */
+    background-color: #66BFBF;
+    position: relative;
+    padding: 125px;
+    margin: 0 auto 0 auto;
+    border: 0;
+}
+
+.p11 {
+    color: #11999E;
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.8em;
+    /* font-family: 'Martel', serif; */
+}
+
+.sp1 {
+    /*SPAN PARA 1*/
+    text-decoration: underline;
+    /* font-family: 'Changa', sans-serif; */
+}
+
+.sp1:hover {
+    font-size: xx-large;
+    color: fuchsia;
+    background: #0e0b16;
+}
+
+
+/*-----------------MIDDLE-CONTAINER------------------*/
+
+.middle-container {
+    background-color: #66BFBF;
+    margin: 0 auto 0 auto;
+}
+
+
+/* ------------------SKILLS------------------------- */
+
+.skills {
+    background-color: #66BFBF;
+    margin: 0 auto 0 auto;
+}
+
+
+/* ------------------HOBBIES------------------------- */
+
+.hobbies {
+    background-color: #66BFBF;
+    margin: 0 auto 0 auto;
+}
+
+
+/* ------------------CLOUD EDITING------------------------- */
+
+.cloud-up {
+    position: absolute;
+    left: 900px;
+    top: 50px;
+}
+
+.cloud-down {
+    position: absolute;
+    /* left: 300px; */
+    /* bottom: 300px; */
+}
+
+
+/* ------------------H2 EDITING------------------------- */
+
+.h2-wale {
+    color: #11999E;
+    margin: 0 auto 0 auto;
+}
+
+.h2-wale:hover {
+    color: #1338BE;
+}
+
+
+/*------------------H3 EDITING-----------------------------*/
+
+.headder3 {
+    font-family: 'Martel', serif;
+    color: #11999E
+}
+
+.headder3:hover {
+    color: #1414ef;
+}
+
+
+/* ---------------------FOOTER LINK------------------------ */
+
+.get-in-touch {
+    margin: 0 auto 0 auto;
+}
+
+.contact-me {
+    margin: 0 auto 0 auto;
+    background-color: #66BFBF;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    font-family: 'Martel', serif;
+    margin: 0 auto 0 auto;
+}
+
+.p12 {
+    margin: 0 auto 0 auto;
+    color: indigo;
+    font-family: 'Martel', serif;
+}
+
+.email11 {
+    background-color: #66BFBF;
+    color: #11999E;
+}
+
+
+/* -----------------hovering copyright-------------------- */
